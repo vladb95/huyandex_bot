@@ -1,1 +1,1 @@
-# huyandex_bot
+# huyandex telegram bot
